@@ -12,7 +12,7 @@ module.exports.createUser = async ({
             firstname,
             Lastname
         },
-        email,
+        email, 
         password
     })
 
